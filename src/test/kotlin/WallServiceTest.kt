@@ -7,7 +7,7 @@ import org.junit.Assert.*
 
 class WallServiceTest {
 
-   /* @Test
+    @Test
     fun add_isNotNull() {
         val newPost = WallService
         val expected = newPost.add(Post(0))
@@ -38,7 +38,7 @@ class WallServiceTest {
         val expected = newPost.createComment(Comment(1,11))
         val actual = PostNotFoundException("")
         assertEquals(expected, actual)
-    }*/
+    }
 
 //    @Test
 //    fun createComment_shouldNotThrowException() {
