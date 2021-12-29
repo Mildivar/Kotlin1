@@ -5,7 +5,7 @@ import Post.Post
 import Post.Comment
 
 fun main() {
-    val newPost = WallService
+   /* val newPost = WallService
 //    newPost.add(Post(2))
     newPost.add(Post(3))
 //    newPost.update(Post(999, text = "nenene"))
@@ -14,5 +14,5 @@ fun main() {
     val att: Attachments = VideoAttachment(Video())
 //    val att2: Attachments = VideoAttachment(Video(13))
     println(att.type)
-//    println(att2)
+//    println(att2)*/
 }
