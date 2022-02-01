@@ -1,6 +1,6 @@
 package Post
 
-import Post.Attachments.Attachments
+import Post.attachments.Attachments
 
 data class Post(
     var id: Int,

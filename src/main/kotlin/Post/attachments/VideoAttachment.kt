@@ -1,4 +1,4 @@
-package Post.Attachments
+package Post.attachments
 
 data class VideoAttachment(/*override val type:String,*/ val video:Video): Attachments("video") {
 //       var newVideo = emptyArray<Video>()

@@ -1,4 +1,4 @@
-package Post.Attachments
+package Post.attachments
 
 data class Video (
     val vid: Int = 0, // Идентификатор видеозаписи.

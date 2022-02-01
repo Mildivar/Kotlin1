@@ -1,0 +1,1 @@
+open class CrudID(var id: Int)
